@@ -1,0 +1,12 @@
+# Binaires compilés
+serveur
+client
+*.o
+*~
+
+# macOS
+.DS_Store
+
+# Éditeur
+.vscode/
+*.swp
